@@ -1,4 +1,4 @@
-# compress_adam
+# compress_adamopt
 
 implements the adam optimizer
 
